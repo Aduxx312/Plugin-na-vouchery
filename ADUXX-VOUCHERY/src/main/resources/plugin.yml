@@ -1,0 +1,9 @@
+name: ADUXX-VOUCHERY
+version: '1.0'
+main: dev.Aduxx.vouchery.ADUXXVOUCHERY
+api-version: '1.19'
+Author: Aduxx
+website: dc.gg/aduxxplugins
+description: Plugin na vouchery
+commands:
+  voucher:

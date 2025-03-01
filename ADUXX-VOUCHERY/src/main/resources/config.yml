@@ -1,0 +1,25 @@
+## Aduxx Vouchery config
+
+vouchers:
+  vip:
+    name: "vip"
+    voucher-name: "&8Voucher na &bRange vip"
+    lore:
+      - "&7Klinknij ppm,&eAby otrzymac"
+      - "&e&LRange Vip na 14dni&8!"
+    commands:
+      - "lp user %player% parent addtemp vip 7D"
+    item: "YELLOW_STAINED_GLASS"
+
+voucher-permission: "voucher.use" #permisja do uzycia komendy /voucher
+
+messages:
+  no-permission: "&cBrak permisji"
+  reloaded: "&aPrzeladowano config!"
+  voucher-created: "&aStworzono voucher o nazwie {voucher_name}!"
+  voucher-not-exist: "&cBlad! voucher o takiej nazwie nie istnieje!"
+  usage: "&6Poprawne uzycie voucher|reload|give|create"
+  no-voucher-name: "&cMusisz podac nazwe vouchera!"
+  player-offline: "&cPodany gracz jest &8offline!"
+  voucher-used: "&aUzyto voucher!"
+  must-provide-player-name: "&dMusisz podac nick gracza!"

@@ -1,0 +1,4 @@
+dev\Aduxx\vouchery\ADUXXVOUCHERY.class
+dev\Aduxx\vouchery\Listener\VoucherListener.class
+dev\Aduxx\vouchery\vouchery\VoucherTabCompleter.class
+dev\Aduxx\vouchery\commands\VoucherCommand.class
