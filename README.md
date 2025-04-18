@@ -1,1 +1,1 @@
-# Prosty plugin dodający system voucherów
+Prosty plugin dodający system voucherów
